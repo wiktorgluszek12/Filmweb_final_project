@@ -1,10 +1,10 @@
-:movie_camera: ::clapper: :desktop_computer:  Filmweb web scraper  :desktop_computer: :clapper: :movie_camera:
+:movie_camera: :clapper: :desktop_computer:  Filmweb web scraper  :desktop_computer: :clapper: :movie_camera:
 
 
 
 IDs:
 
-Edyta ........
+Edyta Pszczółkowska 435022 
 
 Wiktor Głuszek 387182
 
