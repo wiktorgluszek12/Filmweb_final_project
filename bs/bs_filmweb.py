@@ -18,7 +18,7 @@ one_hundred_pages = True
 list_of_links = []
 
 if one_hundred_pages == True:
-    paginations = 100 # 10 x 10 = 100 subpages
+    paginations = 10 # 10 x 10 = 100 subpages
 else:
     paginations = 1000 # There are 1ths pages in total
 
