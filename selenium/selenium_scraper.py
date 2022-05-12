@@ -37,7 +37,7 @@ else:
 
 for page in range(1, paginations+1):
     driver.get(f"https://www.filmweb.pl/persons/search?orderBy=popularity&descending=true&page={page}")
-    driver.implicitly_wait(2.5)
+    driver.implicitly_wait(1.0)
     
     #Click cookies popup
     try:
@@ -55,7 +55,7 @@ for page in range(1, paginations+1):
 for link in list_of_links:
     
     driver.get(link)
-    driver.implicitly_wait(2.5)
+    driver.implicitly_wait(1.5)
     
     # Name
     abc = driver.find_element(By.XPATH, "//div[@class='personCareerHistorySection__subtitle']")
